@@ -13,4 +13,5 @@ public class SaveTicket {
     public String getVer() {
         return ver;
     }
+    
 }
