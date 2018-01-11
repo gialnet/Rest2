@@ -12,6 +12,9 @@ import android.widget.TextView;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
 
+//
+// this comment is only for made a git commit
+//
 public class MainActivity extends AppCompatActivity {
 
     @Override
